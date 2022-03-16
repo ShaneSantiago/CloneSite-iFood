@@ -76,7 +76,3 @@ Abaixo segue o que foi utilizado na criação deste projeto:
 
 - Versão Desktop
 
-```
-  
-<a href="#top">Voltar para o topo</a>
-
