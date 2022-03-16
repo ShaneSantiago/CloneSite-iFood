@@ -8,20 +8,6 @@
   <a href="https://choosealicense.com/licenses/mit/" target="_blank"><img src="https://img.shields.io/static/v1?label=License&message=MIT&color=informational"></a>
  </p>
 
-<!-- PROJECT MENU -->
-<p align="center">
-  <a href="#logo">Logo</a> &#xa0; | &#xa0; 
-  <a href="#sobre">Sobre</a> &#xa0; | &#xa0; 
-  <a href="#site">Site</a> &#xa0; | &#xa0; 
-  <a href="#tecnologias">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="#funciona">Funcionalidades</a> &#xa0; | &#xa0;  
-  <a href="#pendente">Pendências</a> &#xa0; | &#xa0;
-  <a href="#imagens">Imagens</a> &#xa0; | &#xa0;  
-  <a href="#wireframe"> Wireframe</a> &#xa0; | &#xa0;
-  <a href="#requisitos">Pré requisitos</a> &#xa0; | &#xa0;   
-  <a href="#desenvolvedores">Desenvolvedores</a> &#xa0; 
-</p>
-
 <!-- PROJECT LOGO -->
 <h2 id="logo"> :framed_picture:  Logo </h2>
 
