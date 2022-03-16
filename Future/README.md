@@ -196,45 +196,6 @@ $ npm run start
 
 # O servidor inciará na porta:3000 - acesse <http://localhost:3000>
 ```
-
-<!-- PROJECT DEVELOPERS-->
-<h2 id="desenvolvedores">:construction_worker: Desenvolvedores</h2>   
-  
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/ArgLD">
-      <img src="https://avatars.githubusercontent.com/u/78452566?v=4" style="border-radius: 50%" width="100px" alt="Imagem do perfil de Argleydson Leão"/>
-      <br />
-      <sub><b>Argleydson Leão</b></sub>
-      <br />
-    </td>
-    <td align="center"><a href="https://github.com/mhsouza88">
-      <img src="https://avatars.githubusercontent.com/u/88038506?v=4" style="border-radius: 50%" width="100px" alt="Imagem do perfil de Maria Helena V. C. de Souza"/>
-      <br />
-      <sub><b>Maria Helena V. C. de Souza</b></sub>
-      <br />
-    </td>  
-    <td align="center"><a href="https://github.com/silviordjr">
-      <img src="https://avatars.githubusercontent.com/u/42523195?v=4" style="border-radius: 50%" width="100px" alt="Imagem do perfil de Silvio Ribeiro Dias Jr."/>
-      <br />
-      <sub><b>Silvio Ribeiro Dias Jr.</b></sub>
-      <br />
-    </td>  
-    <td align="center"><a href="https://github.com/TainaSoares">
-      <img src="https://avatars.githubusercontent.com/u/88054888?v=4" style="border-radius: 50%" width="100px" alt="Imagem do perfil de Tainá Soares"/>
-      <br />
-      <sub><b>Tainá Soares</b></sub>
-      <br />
-    </td>
-    <td align="center"><a href="https://github.com/dev-magdielSilva">
-      <img src="https://avatars.githubusercontent.com/u/88065117?v=4" style="border-radius: 50%" width="100px" alt="Imagem do perfil de Tainá Soares"/>
-      <br />
-      <sub><b>Magdiel Silva</b></sub>
-      <br />
-    </td>  
-</table>
-  
-  <p> :busts_in_silhouette: Aguardamos o seu contato. </p>
   
 <a href="#top">Voltar para o topo</a>
 
