@@ -3,6 +3,7 @@
 <h1 align='center'id="top"> :rocket: == Projeto Final de Front-End == :rocket: </h1>
 
 
+
 <!-- PROJECT SOBRE -->
 <h2 id="sobre">:notebook: Sobre </h2>
 <p align="justify">Projeto final de Frontend desenvolvido em React JS pelos alunos do curso Fullstack Web (integral) da Labenu, Turma Maryam, grupo 2. No projeto desenvolvemos uma aplicação web baseada em um aplicativo de delivery de comida onde o design foi desenvolvido pela designer Camila Mizutani e utilizamos uma API própria contendo todas as funções necessárias.</p>
