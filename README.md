@@ -13,6 +13,7 @@
 <p>🔗 <a href="https://dizzy-future-eats.surge.sh/" target="_blank"> Future Eats </a>  </p>
 <!-- <a href="https://dizzy-future-eats.surge.sh/" onclick="return ! window.open(this.href);"> Open in a new window</a> -->
 
+
 <!-- PROJECT TECHNOLOGIES -->
 <h2 id="tecnologias"> 🛠 Tecnologias </h2>
 
